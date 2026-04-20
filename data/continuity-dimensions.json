@@ -1,0 +1,26 @@
+{
+  "repository": "ai-character-continuity-kit",
+  "dimensions": [
+    {
+      "name": "identity",
+      "fields": ["name", "age_range", "story_role", "archetype", "first_appearance"]
+    },
+    {
+      "name": "visual_anchor",
+      "fields": ["face", "hair", "body_type", "clothing", "palette", "props"]
+    },
+    {
+      "name": "personality",
+      "fields": ["desire", "fear", "speech_style", "decision_style", "moral_boundary"]
+    },
+    {
+      "name": "relationship_map",
+      "fields": ["ally", "rival", "family", "romance", "secret"]
+    },
+    {
+      "name": "episode_memory",
+      "fields": ["change", "injury", "promise", "secret_revealed", "continuity_note"]
+    }
+  ]
+}
+

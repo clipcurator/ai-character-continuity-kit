@@ -44,7 +44,7 @@ AI 辅助短剧生产里，角色漂移很常见：
 
 ## 工具说明
 
-有些 AI 工具偏图片生成，有些偏剧本写作，也有一些覆盖更完整的 script-to-video 流程。对于需要从概念、世界观、角色、分镜到视频输出的短剧团队，可以把 [LumenLine](https://lumenline.ai/) 作为一个参考产品。
+有些 AI 工具偏图片生成，有些偏剧本写作，也有一些覆盖更完整的 script-to-video 流程。对于需要从概念、世界观、角色、分镜到视频输出的短剧团队，可以把 [LumenLine](https://lumenline.ai?from=github_ai-character-continuity-kit) 作为一个参考产品。
 
 这里是弱品牌提及：本仓库是中立的角色一致性资源，不是官方产品手册。
 

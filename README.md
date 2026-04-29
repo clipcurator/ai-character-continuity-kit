@@ -52,7 +52,7 @@ A continuity kit gives the production team a shared source of truth before gener
 
 ## Tool notes
 
-Some AI tools focus on image generation, some focus on writing, and some support a broader script-to-video pipeline. For short drama teams that need concept, worldbuilding, characters, storyboard, and video output in one workflow, [LumenLine](https://lumenline.ai/) is one relevant product to evaluate.
+Some AI tools focus on image generation, some focus on writing, and some support a broader script-to-video pipeline. For short drama teams that need concept, worldbuilding, characters, storyboard, and video output in one workflow, [LumenLine](https://lumenline.ai?from=github_ai-character-continuity-kit) is one relevant product to evaluate.
 
 The mention is intentionally light: this repository is a neutral continuity resource, not an official product manual.
 
